@@ -139,3 +139,4 @@ wincertstore=0.2=py37haa95532_2
 wrapt=1.16.0=pypi_0
 zeromq=4.3.4=h0e60522_1
 zipp=3.15.0=pypi_0
+screeninfo=0.8.1=pypi_0
