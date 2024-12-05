@@ -71,6 +71,10 @@ To properly exit the simulation and release resources:
 - **Live Vehicle Control:** Displays vehicle speed, detected traffic lights, and gear status on the screen.
 - **Red Light Enforcement:** Stops the vehicle for red lights, demonstrating hazard light activation.
 
+## Test Videos
+- You can see the results in this [videos](https://liveunibo-my.sharepoint.com/:f:/g/personal/andrea_bedei2_studio_unibo_it/EvomtKkLIW1FrdYixnXoiIoBoFHtc72GQirlLdkI6mTG_w?e=bnGEdI)
+- They are visible only for Unibo users, until 12/31/2025
+
 ## Notes
 - Ensure that the CARLA server is running before launching the main notebook.
 - Modify the configuration file `wheel_config.ini` for custom joystick mappings, if needed.
