@@ -6,11 +6,10 @@ An Advanced Driver Assistance System (ADAS) implemented in the CARLA simulator. 
 
 ## 🚀 Features
 
-- **Speed Limit Detection** – Identifies speed sign icons and adjusts throttle/brake using proportional control.  
-- **Traffic Light Detection** – Detects red/yellow/green lights and enforces emergency braking on red light violations.  
-- **Driving Modes** – Manual (keyboard or steering wheel) and Autopilot (toggle via joystick or keyboard).  
-- **Logging & Visualization** – Logs performance metrics with TensorBoard and logs test run data into Excel spreadsheets.  
-  :contentReference[oaicite:0]{index=0}
+- **Speed Limit Detection** –> identifies speed sign icons and adjusts throttle/brake using proportional control
+- **Traffic Light Detection** –> detects red/yellow/green lights and enforces emergency braking on red light violations
+- **Driving Modes** –> manual (keyboard or steering wheel) and Autopilot (toggle via joystick or keyboard)
+- **Logging & Visualization** –> logs performance metrics with TensorBoard and logs test run data into Excel spreadsheets. 
 
 ---
 
